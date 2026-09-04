@@ -1,2 +1,2 @@
 # VORVO-APP
-The verbal language vocabulary app that learns, recognize mistake and give proper guidance to start leaning language
+The Free journal Discussion app with proxied text for only group decision and sharing code with own data bases with protocol inflation of w2p3k protection copy
